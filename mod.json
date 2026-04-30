@@ -1,0 +1,24 @@
+{
+    "name": "UltimateCheatMod",
+    "id": "com.ultimate.cheatmod",
+    "version": "1.0.0",
+    "description": "The most comprehensive Geometry Dash mod with 100+ cheats and features",
+    "authors": [
+        {
+            "name": "UltimateDev",
+            "url": "https://github.com/ultimate"
+        }
+    ],
+    "geodeVersion": "2.0",
+    "sdkVersion": "2.0",
+    "gdVersion": "2.2",
+    "tags": ["cheats", "features", "quality-of-life", "utility"],
+    "repository": "https://github.com/ultimate/ultimatecheatmod",
+    "icon": "logo.png",
+    "readme": "README.md",
+    "about": "about.md",
+    "changelog": "changelog.md",
+    "files": [
+        "build/"
+    ]
+}
